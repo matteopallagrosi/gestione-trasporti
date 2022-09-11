@@ -1,0 +1,7 @@
+{
+	"host": "localhost",
+	"username": "conducente",
+	"password": "Conducente.03",
+	"port": 3306,
+	"database": "gestione-trasporti"
+}
